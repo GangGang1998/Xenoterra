@@ -61,11 +61,11 @@
         "content": [
           {
             "title": "Info Shop ENG",
-            "text": "There are two types of Shops on the server: - IN-GAME SHOP, accessible from the radial menu. This shop will spawn dinos directly in-game at level 225 or 190 (wyverns and rock drakes) with random stats. (Note: aquatic dinos must spawn in the water!!) - ADMIN SHOP: Check the \"Donations\" channel. For every €1 donated, 100 Strawberries will be credited in-game and can be exchanged for dinos in the Discord shop."
+            "text": "There are two types of Shops on the server:\n- IN-GAME SHOP, accessible from the radial menu. It will function with points automatically assigned by the game every half hour. This shop will spawn dinos directly in-game at level 225 or 190 (wyverns and rock drakes) with random stats. (!!Aquatic dinos must be spawned in the water!!) ADMIN SHOP: Check the "Donations" channel. For every €1 donated to the server, 100 Strawberries will be credited in-game, which can be exchanged for dinos in the shop on Discord, "Shop-dino-e-oggetti". The creatures will spawn at level 240 with one stat of your choice at a minimum of 50 points (wyverns and rock drakes at level 210, with a stat of 42)."
           },
           {
             "title": "Info Shop ITA",
-            "text": "- SHOP IN-GAME: consultabile dal menù radiale, funzionerà con i punti assegnati automaticamente ogni mezz'ora. Questo shop spawnerà direttamente in gioco dinos a livello 225 o 190 (viverne e rock drake) con statistiche casuali. (!! I dino acquatici vanno spawnati in acqua!!) - SHOP ADMIN: Vedere canale \"Donazioni\", per ogni € donato verranno assegnate 100 Fragole in gioco, scambiabili nello shop Discord con dino o oggetti."
+            "text": "- SHOP IN-GAME: consultabile dal menù radiale, funzionerà con i punti assegnati automaticamente ogni mezz'ora. Questo shop spawnerà direttamente in gioco dinos a livello 225 o 190 (viverne e rock drake) con statistiche casuali. (!!I dino acquatici vanno spawnati in acqua!!) - SHOP ADMIN: Vedere canale "Donazioni", per ogni € donato verranno assegnate 100 Fragole in gioco, scambiabili nello shop Discord con dino o oggetti."
           }
         ]
       },
