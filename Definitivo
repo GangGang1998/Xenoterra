@@ -15,16 +15,16 @@
     "tabs": [
       {
         "layout": 2,
-        "buttontext": "Welcome",
+        "buttontext": "Starter Pack",
         "imageurl": "https://i.ibb.co/XxrPHVw/Sfondo.png",
         "content": [
           {
             "title": "Welcome in XenoTerra!",
-            "text": "Welcome to everyone, hope you can enjoy the server! For any question ask here in game or in our discord and Rudo or Jenny will help you as soon as they can! Have a nice journey!                                            (Dragons and Wyverns from Draconic Chronicles spawn only on Astraeos map)"
+            "text": "To get Starter Pack hold Square or R, then open Shop, choose the Hatchet icon and purchase it. \n\nHope you can enjoy the server! For any question ask here in game or in our discord and Rudo or Jenny will help you as soon as they can! Have a nice journey! \n\n(Dragons and Wyverns from Draconic Chronicles spawn only on Astraeos map)"
           },
           {
             "title": "Benvenuti in XenoTerra!",
-            "text": "Benvenuti a tutti, speriamo il server vi piaccia, per qualsiasi domanda chiedete pure qui o su discord, Rudo o Jenny vi aiuteranno il prima possibile! Buona avventura!                                              (I draghi e le viverne della mod Draconic Chronicles spawnano solo nella mappa Astraeos)"
+            "text": "Per ottenere lo Starter Pack, tieni premuto Quadrato o R, poi apri il Negozio, scegli l'icona dell'Accetta e acquistalo. \n\nSperiamo il server vi piaccia, per qualsiasi domanda chiedete pure qui o su discord, Rudo o Jenny vi aiuteranno il prima possibile! Buona avventura! \n\n(I draghi e le viverne della mod Draconic Chronicles spawnano solo nella mappa Astraeos)"
           }
         ]
       },
