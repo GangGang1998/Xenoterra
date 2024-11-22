@@ -31,7 +31,7 @@
       {
         "layout": 1,
         "buttontext": "Info Server ENG",
-        "imageurl": "https://i.ibb.co/yXS56QW/Locandina-Eng.png",
+        "imageurl": "https://i.ibb.co/vQMcJ5d/Locandina-eng.png",
         "content": [
           {
             "title": "",
@@ -46,7 +46,7 @@
       {
         "layout": 1,
         "buttontext": "Info Server ITA",
-        "imageurl": "https://i.ibb.co/Ns8K26L/Locandina.png",
+        "imageurl": "https://i.ibb.co/z2JpTpg/Locandina.png",
         "content": [
           {
             "title": "",
@@ -57,7 +57,7 @@
       {
         "layout": 2,
         "buttontext": "Info Shop",
-        "imageurl": "https://i.ibb.co/XxrPHVw/Sfondo.png",
+        "imageurl": "https://i.ibb.co/L1TH9kH/Back.png",
         "content": [
           {
             "title": "Info Shop ENG",
@@ -72,7 +72,7 @@
       {
         "layout": 2,
         "buttontext": "Events",
-        "imageurl": "https://i.ibb.co/XxrPHVw/Sfondo.png",
+        "imageurl": "https://i.ibb.co/L1TH9kH/Back.png",
         "content": [
           {
             "title": "100 Discord Members Giveaway",
