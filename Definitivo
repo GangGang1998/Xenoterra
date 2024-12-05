@@ -94,6 +94,14 @@
         "text": "Dododex",
         "url": "https://www.dododex.com/"
       }
+      {
+        "text": "Ark Wiki",
+        "url": "https://ark.wiki.gg/"
+      }
+      {
+        "text": "Shiny",
+        "url": "https://legacy.curseforge.com/ark-survival-ascended/mods/shiny-ascended/pages/shiny-ascended/shiny-abilities"
+      }
     ],
     "version": 2
   }
